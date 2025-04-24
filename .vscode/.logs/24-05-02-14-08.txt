@@ -1,0 +1,54 @@
+24-05-02 14:08 Session started
+----------------------------------------
+15:17:51 Document switched to: c:\Users\ayad.hussain\github-classroom\TE22C-WEUWEB01\slutprojekt-TE22D-Ayad-Hussain\.gitignore
+----------------------------------------
+15:18:48 Document switched to: c:\Users\ayad.hussain\github-classroom\TE22C-WEUWEB01\slutprojekt-TE22D-Ayad-Hussain\Slutprojekt
+----------------------------------------
+15:18:53 Document switched to: c:\Users\ayad.hussain\github-classroom\TE22C-WEUWEB01\slutprojekt-TE22D-Ayad-Hussain\Slutprojekt.html
+----------------------------------------
+15:18:54 000:000 > !
+15:18:55 000:000 > <!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Document</title>
+</head>
+<body>
+    
+</body>
+</html>
+15:33:38 Document switched to: c:\Users\ayad.hussain\github-classroom\TE22C-WEUWEB01\slutprojekt-TE22D-Ayad-Hussain\.gitignore
+----------------------------------------
+15:33:40 Document switched to: c:\Users\ayad.hussain\github-classroom\TE22C-WEUWEB01\slutprojekt-TE22D-Ayad-Hussain\Slutprojekt.html
+----------------------------------------
+
+15:33:50 008:004 > d
+15:33:50 008:005 > di
+15:33:50 008:006 > div
+15:33:50 008:004 > <div></div>
+15:34:00 Document switched to: c:\Users\ayad.hussain\github-classroom\TE22C-WEUWEB01\slutprojekt-TE22D-Ayad-Hussain\Style.css
+----------------------------------------
+15:34:15 Document switched to: c:\Users\ayad.hussain\github-classroom\TE22C-WEUWEB01\slutprojekt-TE22D-Ayad-Hussain\Slutprojekt.html
+----------------------------------------
+
+15:36:51 009:008 > r
+15:36:51 009:009 > re
+15:36:54 009:008 > red
+15:36:54 009:009 > redi
+15:36:55 009:010 > rediv
+15:36:55 009:008 > <div></div>
+15:37:00 009:011 > v
+15:37:04 009:008 > v.
+15:37:05 009:009 > v.m
+15:37:05 009:010 > v.me
+15:37:05 009:011 > v.men
+15:37:05 009:012 > v.meny
+15:37:05 009:008 > <div class="meny"></div>
+15:37:12 009:027 >  l
+15:37:12 009:028 >  li
+15:37:13 009:027 >  lil
+15:37:13 009:028 >  lili
+15:37:14 009:026 >  lilil
+15:37:14 009:027 >  lilili
+15:37:15 009:026 > <li></li>

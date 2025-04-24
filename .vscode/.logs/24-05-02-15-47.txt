@@ -1,0 +1,70 @@
+24-05-02 15:47 Session started
+----------------------------------------
+15:47:27 Document switched to: c:\Users\ayad.hussain\github-classroom\TE22C-WEUWEB01\slutprojekt-TE22D-Ayad-Hussain\Slutprojekt.html
+----------------------------------------
+16:03:27 Document switched to: c:\Users\ayad.hussain\github-classroom\TE22C-WEUWEB01\slutprojekt-TE22D-Ayad-Hussain\Slutprojekt.html
+----------------------------------------
+
+16:03:31 010:012 > d
+16:03:31 010:013 > dw
+
+16:03:43 009:026 > d
+16:03:44 009:027 > de
+
+16:08:51 000:000 > G
+16:08:51 000:001 > Gj
+16:08:51 000:002 > Gjo
+16:08:51 000:003 > Gjor
+16:08:52 000:004 > Gjord
+16:08:52 000:005 > Gjorde
+16:08:54 000:007 > Gjorde g
+16:08:54 000:008 > Gjorde gr
+16:08:54 000:009 > Gjorde gru
+16:08:54 000:010 > Gjorde grun
+16:08:54 000:011 > Gjorde grund
+16:08:56 000:000 > Gjorde grund J
+16:08:56 000:001 > Gjorde grund Jo
+16:08:57 000:002 > Gjorde grund Job
+16:08:57 000:003 > Gjorde grund Joba
+16:08:57 000:003 > Gjorde grund Jobab
+16:08:57 000:004 > Gjorde grund Jobaba
+16:08:58 000:005 > Gjorde grund Jobabad
+16:08:58 000:006 > Gjorde grund Jobabade
+16:08:58 000:008 > Gjorde grund Jobabade p
+16:08:58 000:009 > Gjorde grund Jobabade på
+16:08:59 000:011 > Gjorde grund Jobabade på p
+16:08:59 000:012 > Gjorde grund Jobabade på pl
+16:08:59 000:013 > Gjorde grund Jobabade på pla
+16:08:59 000:014 > Gjorde grund Jobabade på plam
+16:09:00 000:014 > Gjorde grund Jobabade på plamn
+16:09:00 000:016 > Gjorde grund Jobabade på plamn o
+16:09:00 000:017 > Gjorde grund Jobabade på plamn oc
+16:09:00 000:018 > Gjorde grund Jobabade på plamn och
+16:09:01 000:020 > Gjorde grund Jobabade på plamn och g
+16:09:01 000:021 > Gjorde grund Jobabade på plamn och gj
+16:09:01 000:022 > Gjorde grund Jobabade på plamn och gjo
+16:09:01 000:023 > Gjorde grund Jobabade på plamn och gjor
+16:09:01 000:024 > Gjorde grund Jobabade på plamn och gjord
+16:09:01 000:025 > Gjorde grund Jobabade på plamn och gjorde
+16:09:02 000:027 > Gjorde grund Jobabade på plamn och gjorde g
+16:09:02 000:028 > Gjorde grund Jobabade på plamn och gjorde gr
+16:09:02 000:029 > Gjorde grund Jobabade på plamn och gjorde gru
+16:09:02 000:030 > Gjorde grund Jobabade på plamn och gjorde grun
+16:09:02 000:031 > Gjorde grund Jobabade på plamn och gjorde grund
+16:09:03 000:033 > Gjorde grund Jobabade på plamn och gjorde grund f
+16:09:03 000:034 > Gjorde grund Jobabade på plamn och gjorde grund fr
+16:09:03 000:035 > Gjorde grund Jobabade på plamn och gjorde grund frl
+16:09:03 000:034 > Gjorde grund Jobabade på plamn och gjorde grund frlö
+16:09:03 000:035 > Gjorde grund Jobabade på plamn och gjorde grund frlör
+16:09:04 000:037 > Gjorde grund Jobabade på plamn och gjorde grund frlör m
+16:09:04 000:038 > Gjorde grund Jobabade på plamn och gjorde grund frlör mi
+16:09:04 000:039 > Gjorde grund Jobabade på plamn och gjorde grund frlör min
+16:09:05 000:041 > Gjorde grund Jobabade på plamn och gjorde grund frlör min w
+16:09:05 000:042 > Gjorde grund Jobabade på plamn och gjorde grund frlör min we
+16:09:05 000:043 > Gjorde grund Jobabade på plamn och gjorde grund frlör min web
+16:09:05 000:044 > Gjorde grund Jobabade på plamn och gjorde grund frlör min webs
+16:09:05 000:045 > Gjorde grund Jobabade på plamn och gjorde grund frlör min websi
+16:09:06 000:046 > Gjorde grund Jobabade på plamn och gjorde grund frlör min websia
+16:09:06 000:047 > Gjorde grund Jobabade på plamn och gjorde grund frlör min websiad
+16:09:07 000:046 > Gjorde grund Jobabade på plamn och gjorde grund frlör min websiadd
+16:09:07 000:047 > Gjorde grund Jobabade på plamn och gjorde grund frlör min websiadda
